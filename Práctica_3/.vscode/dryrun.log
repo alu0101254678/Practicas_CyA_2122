@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/usuario/Practicas_CyA_2122/Práctica_3'
+g++ -Wall main.cpp alfabeto.cpp cadena.cpp lenguaje.cpp -o main
+make: Leaving directory '/home/usuario/Practicas_CyA_2122/Práctica_3'
+ 
